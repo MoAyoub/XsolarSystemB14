@@ -11,5 +11,6 @@ public class Main {
         Xeron.heat="12324234";
         Xeron.size=1221334234;
         Xeron.temp=34535;
+        Xeron.temp=123;
     }
 }
